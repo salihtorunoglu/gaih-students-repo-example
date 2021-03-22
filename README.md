@@ -4,6 +4,7 @@
 **Course Date:** 22.10.2001  
 **Name:** Salih Emre  
 **Surname:** Torunoğlu
+
 **Email:** salih.torunoglu@std.antalya.edu.tr
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
